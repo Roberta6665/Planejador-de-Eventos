@@ -103,3 +103,5 @@ Verificar Versões: Para verificar se o Python e o pip estão instalados correta
 3. python --version
 
 4. pip --version
+
+5. Você pode utilizar o Replit em [https://replit.com/](https://replit.com/), onde é possível ter uma experiência visual mais rica, com a adição de emojis.
