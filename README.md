@@ -1,8 +1,12 @@
-Documentação para Executar Projeto Python pelo Prompt de Comando
-Pré-requisitos
+Documentação para Executar Projeto Python pelo Prompt de Comando:
+
+Pré-requisitos:
 1.Python: Certifique-se de que o Python está instalado. Você pode baixar a versão mais recente em python.org.
+
 2.Pip: O gerenciador de pacotes pip deve estar instalado. Ele geralmente é incluído com a instalação do Python.
-Passos para Executar o Projeto
+
+
+Passos para Executar o Projeto:
 1. Abrir o Prompt de Comando
 Pressione Win + R, digite cmd e pressione Enter para abrir o Prompt de Comando.
 2. Navegar até a Pasta do Projeto
